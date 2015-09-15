@@ -1,4 +1,4 @@
-<img align="left" height="150" src="http://albahra.com/opensprinkler/icon-new.png"><h3>&nbsp;OpenSprinkler Drivers</h3>
+<img align="left" height="150" src="http://albahra.com/opensprinkler/icon-new.png"><h3>&nbsp;OpenSprinkler Compiled Firmware</h3>
 &nbsp;[Official Site][official] | [Support][help]  
 <br>
 This repository hosts the compiled Unified firmware for Arduino based devices. The firmware updater download's the latest firmware from this repository.
